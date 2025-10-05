@@ -1,9 +1,12 @@
 {
+  "autor": "Coleção HQs",
   "hqs": [
     {
       "id": 1,
       "titulo": "Android 18 NTR 5",
-      "categoria": "adulto",
+      "autor": "Coleção HQs",
+      "categoria": "hqs adultas",
+      "imagem": "https://i.ibb.co/jkNy933t/1111.png",
       "paginas": [
         "https://i.ibb.co/jkNy933t/1111.png",
         "https://i.ibb.co/Zz913tHm/2.png",
@@ -35,7 +38,9 @@
     {
       "id": 2,
       "titulo": "JMoz, Everybody Loves Elizabeth",
-      "categoria": "adulto",
+      "autor": "JMoz",
+      "categoria": "hqs adultas",
+      "imagem": "https://i.ibb.co/pBqnmtDx/1.jpg",
       "paginas": [
         "https://i.ibb.co/pBqnmtDx/1.jpg",
         "https://i.ibb.co/0RV0bJXG/2.png",

@@ -34,3 +34,34 @@
     }
   ]
 }
+
+{
+  "hqs": [
+    {
+      "id": 2,
+      "titulo": "JMoz, Everybody Loves Elizabeth",
+      "categoria": "adulto",
+      "paginas": [
+        "https://i.ibb.co/pBqnmtDx/1.jpg",
+        "https://i.ibb.co/0RV0bJXG/2.png",
+        "https://i.ibb.co/GQVZwG1t/3.png",
+        "https://i.ibb.co/Y78MzPbj/4.png",
+        "https://i.ibb.co/TxdLWx4V/5.png",
+        "https://i.ibb.co/n8CWn7x0/6.png",
+        "https://i.ibb.co/fzM0C153/7.png",
+        "https://i.ibb.co/jc44v98/8.png",
+        "https://i.ibb.co/HLMNdnc5/9.png",
+        "https://i.ibb.co/d00CPwkX/10.png",
+        "https://i.ibb.co/0pPXgvBt/11.png",
+        "https://i.ibb.co/Q3BVfwfc/12.png",
+        "https://i.ibb.co/8L7d0h4n/13.png",
+        "https://i.ibb.co/WpPpVc9h/14.png",
+        "https://i.ibb.co/6Rs50Hjz/15.png",
+        "https://i.ibb.co/gFrKzLtm/16.png",
+        "https://i.ibb.co/XZYGHdLY/17.png",
+        "https://i.ibb.co/nsqgwHH8/18.png"
+        ]
+    }
+  ]
+}
+
